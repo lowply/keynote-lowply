@@ -1,6 +1,6 @@
 # A keynote theme for lowply
 
-This is my peronal theme for presentations.
+This is my personal theme for presentations.
 
 ## Installation
 
